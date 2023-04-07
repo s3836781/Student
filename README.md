@@ -20,10 +20,3 @@
     <img src="/img/md.png" style="height: 70px;"/>
 
 
-## 1. Heading
-### 1.1 Subheading 
-### 1.2 Subheading 
-
-## 2. Heading
-### 2.1 Subheading 
-### 2.2 Subheading 
